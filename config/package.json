@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "homebridge-httpeverything": "^0.1.33"
+  }
+}
